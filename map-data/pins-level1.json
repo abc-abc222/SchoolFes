@@ -1,0 +1,52 @@
+[
+  {
+    "level": 1,
+    "category": 2,
+    "space": "1.01",
+    "label": "Apple Heart",
+    "icon": "modx",
+    "top": "12vmin",
+    "left": "20vmin",
+    "class": "pin--1-1"
+  },
+  {
+    "level": 1,
+    "category": 3,
+    "space": "1.02",
+    "label": "Crazy Banana",
+    "icon": "angle-down",
+    "top": "12vmin",
+    "left": "32vmin",
+    "class": "pin--1-2"
+  },
+  {
+    "level": 1,
+    "category": 3,
+    "space": "1.03",
+    "label": "Folding Life",
+    "icon": "rocket",
+    "top": "12vmin",
+    "left": "43vmin",
+    "class": "pin--1-3"
+  },
+  {
+    "level": 1,
+    "category": 3,
+    "space": "1.04",
+    "label": "Dress me not",
+    "icon": "bug",
+    "top": "12vmin",
+    "left": "57vmin",
+    "class": "pin--1-4"
+  },
+  {
+    "level": 1,
+    "category": 3,
+    "space": "1.05",
+    "label": "Meditation Garden",
+    "icon": "paint-brush",
+    "top": "21vmin",
+    "left": "24vmin",
+    "class": "pin--1-5"
+  }
+]

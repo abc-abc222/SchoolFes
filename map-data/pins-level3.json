@@ -1,0 +1,162 @@
+[
+  {
+    "level": 1,
+    "category": 4,
+    "space": "3.01",
+    "label": "Apple Heart",
+    "icon": "appleheart",
+    "top": "12vmin",
+    "left": "27vmin",
+    "class": "pin--3-1"
+  },
+  {
+    "level": 1,
+    "category": 4,
+    "space": "3.02",
+    "label": "Apple Heart",
+    "icon": "appleheart",
+    "top": "12vmin",
+    "left": "44vmin",
+    "class": "pin--3-2"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.03",
+    "label": "Crazy Banana",
+    "icon": "bananas",
+    "top": "12vmin",
+    "left": "68vmin",
+    "class": "pin--3-3"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.04",
+    "label": "Folding Life",
+    "icon": "origami",
+    "top": "12vmin",
+    "left": "78vmin",
+    "class": "pin--3-4"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.05",
+    "label": "Dress me not",
+    "icon": "dress",
+    "top": "12vmin",
+    "left": "86.5vmin",
+    "class": "pin--3-5"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.06",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "12vmin",
+    "left": "95vmin",
+    "class": "pin--3-6"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.07",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "21vmin",
+    "left": "16vmin",
+    "class": "pin--3-7"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.08",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "21vmin",
+    "left": "25vmin",
+    "class": "pin--3-8"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.09",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "21vmin",
+    "left": "33.5vmin",
+    "class": "pin--3-9"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.10",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "21vmin",
+    "left": "42vmin",
+    "class": "pin--3-10"
+  },
+  {
+    "level": 1,
+    "category": 4,
+    "space": "3.11",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "21vmin",
+    "left": "51vmin",
+    "class": "pin--3-11"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.12",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "21vmin",
+    "left": "60vmin",
+    "class": "pin--3-12"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.13",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "21vmin",
+    "left": "69vmin",
+    "class": "pin--3-13"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.14",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "21vmin",
+    "left": "78vmin",
+    "class": "pin--3-14"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.15",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "21vmin",
+    "left": "86.5vmin",
+    "class": "pin--3-15"
+  },
+  {
+    "level": 1,
+    "category": 2,
+    "space": "3.16",
+    "label": "Meditation Garden",
+    "icon": "tree2",
+    "top": "21vmin",
+    "left": "95vmin",
+    "class": "pin--3-16"
+  }
+]
